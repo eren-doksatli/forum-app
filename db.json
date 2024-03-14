@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": "Mehmet",
+      "title": "React MVC Pattern(Mimari)",
+      "text": "MVC Mimari ile nasıl bileşenleri yöntirim??",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": "2",
+      "user": "Ali",
+      "title": "React MVVM Paterni",
+      "text": "Bu nedir???",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": "3",
+      "date": "2023-09-11T19:13:21.364Z",
+      "title": "React123",
+      "text": "Bunu nasıl çözeriz???",
+      "user": "Ahmet"
+    },
+    {
+      "id": "a88fcb1a-5916-4675-861e-b4d803ae3f4a",
+      "user": "Eren",
+      "title": "React nedir? ",
+      "text": "React kullanıcı arayüzü oluşturmaya yarayan açık kaynak kodlu bir javascript kütüphanesidir. Facebook önderliğinde bir geliştirici grubu tarafından geliştirilmekte olan React, Model-View-Controller prensibine uygun olarak oluşturulmuştur."
+    },
+    {
+      "id": "7c848eb2-6fee-4a4b-a1f5-26e1826bc36d",
+      "user": "Eren",
+      "title": "MVC nedir?",
+      "text": "Model-View-Controller, yazılım mühendisliğinde kullanılan bir \"mimari desen\" veya bir \"tasarım deseni\"dir. Kullanıcıya yüklü miktarda verinin sunulduğu karmaşık uygulamalarda veri ve gösterimin soyutlanması esasına dayanır."
+    },
+    {
+      "id": "3495b471-030c-4d6d-a71b-7f60b87f012a",
+      "user": "Ali",
+      "title": "Deneme",
+      "text": "Example"
+    },
+    {
+      "id": "d0b027ae-40c6-4c4d-86da-13967caad86a",
+      "user": "Eren",
+      "title": "MVC neden önemlidir?",
+      "text": "Yazılımın bakımını ve geliştirilmesini kolaylaştırmakla kalmaz, ayrıca ekip çalışmasını ve kaynak kodunun yönetimini de önemli ölçüde iyileştirir."
+    }
+  ]
+}
